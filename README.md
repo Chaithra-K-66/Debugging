@@ -3,8 +3,10 @@
 
 Debug Node.js application using various tools including following:
 
-1.Core Node.js debugger\n
-2.Node Inspector \n
+1.Core Node.js debugger
+
+2.Node Inspector
+
 3.Built-in debugger in IDEs
 
 #Core Node.js Debugger
